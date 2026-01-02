@@ -1,0 +1,731 @@
+Tanggal,Nama_Produk,Harga_Per_Kg,Terjual_Kg,Is_Holiday_Season,Nama_Season,Supplier
+2024-01-01 00:00:00,Cabai Rawit,40100,61,0.0,Normal,Pak Asep
+2024-01-02 00:00:00,Cabai Rawit,33592,66,0.0,Normal,CV. Hijau
+2024-01-03 00:00:00,Rawit Setan,33938,49,0.0,Normal,Pak Asep
+2024-01-04 00:00:00,Cabe Rawit Merah,36204,57,0.0,Normal,Pak Asep
+2024-01-05 00:00:00,Rawit Setan,38995,41,0.0,Normal,Pak Asep
+2024-01-06 00:00:00,Cabai Rawit,Idr 30746,47,0.0,Normal,Pak Asep
+2024-01-07 00:00:00,Cabai Rawit,Idr 31996,51,0.0,Normal,Pak Asep
+2024-01-08 00:00:00,Rawit Setan,38542,51,0.0,Normal,Pak Asep
+2024-01-09 00:00:00,Rawit Setan,32110,61,0.0,Normal,CV. Hijau
+2024-01-10 00:00:00,Rawit Setan,33251,59,0.0,Normal,CV. Hijau
+2024-01-11 00:00:00,Cabe Rawit Merah,34652,49,0.0,Normal,Pak Asep
+2024-01-12 00:00:00,Rawit Setan,38156,45,0.0,Normal,Tani Makmur
+2024-01-13 00:00:00,Rawit Setan,34143,46,0.0,Normal,CV. Hijau
+2024-01-14 00:00:00,Rawit Setan,33550,22 kg,0.0,Normal,CV. Hijau
+2024-01-15 00:00:00,Cabe Rawit Merah,30931,46,0.0,Normal,CV. Hijau
+2024-01-16 00:00:00,Rawit Setan,36307,53,,Normal,CV. Hijau
+2024-01-17 00:00:00,Rawit Setan,27775,32 kg,0.0,Normal,Pak Asep
+TGL_ERROR,Rawit Setan,32934,57,0.0,Normal,Pak Asep
+2024-01-19 00:00:00,Cabai Rawit,29003,47,0.0,Normal,Tani Makmur
+2024-01-20 00:00:00,Rawit Setan,37675,54,0.0,Normal,CV. Hijau
+2024-01-21 00:00:00,Rawit Setan,35390,28,0.0,Normal,Tani Makmur
+2024-01-22 00:00:00,Cabai Rawit,35949,72,0.0,Normal,Pak Asep
+2024-01-23 00:00:00,Cabe Rawit Merah,28317,25,0.0,Normal,Tani Makmur
+2024-01-24 00:00:00,Rawit Setan,32224,59,0.0,Normal,Tani Makmur
+2024-01-25 00:00:00,Cabe Rawit Merah,34003,40,0.0,Normal,Pak Asep
+2024-01-26 00:00:00,Cabai Rawit,36111,54,0.0,Normal,Pak Asep
+2024-01-27 00:00:00,Rawit Setan,33289,43,0.0,Normal,Pak Asep
+2024-01-28 00:00:00,Cabe Rawit Merah,Idr 29573,25,0.0,Normal,Tani Makmur
+2024-01-29 00:00:00,Rawit Setan,32093,49,0.0,Normal,CV. Hijau
+2024-01-30 00:00:00,Cabe Rawit Merah,35509,61,0.0,Normal,Pak Asep
+2024-01-31 00:00:00,Cabe Rawit Merah,31579,42,0.0,Normal,Pak Asep
+2024-02-01 00:00:00,Cabe Rawit Merah,35675,46,0.0,Normal,Pak Asep
+2024-02-02 00:00:00,Rawit Setan,38009,51,0.0,Normal,Tani Makmur
+2024-02-03 00:00:00,Rawit Setan,32875,36,0.0,Normal,Pak Asep
+2024-02-04 00:00:00,Cabe Rawit Merah,33623,47,0.0,Normal,Pak Asep
+2024-02-05 00:00:00,Cabai Rawit,33614,35,0.0,Normal,CV. Hijau
+2024-02-06 00:00:00,Cabe Rawit Merah,33213,56,0.0,Normal,Tani Makmur
+2024-02-07 00:00:00,Cabai Rawit,Idr 28522,51,0.0,Normal,Pak Asep
+2024-02-08 00:00:00,Cabe Rawit Merah,33977,47,,Normal,Pak Asep
+2024-02-09 00:00:00,Rawit Setan,33973,49,0.0,Normal,Pak Asep
+2024-02-10 00:00:00,Cabai Rawit,33477,52,0.0,Normal,Tani Makmur
+2024-02-11 00:00:00,Cabe Rawit Merah,36199,46,0.0,Normal,Pak Asep
+2024-02-12 00:00:00,Cabe Rawit Merah,36816,44,0.0,Normal,CV. Hijau
+2024-02-13 00:00:00,Cabai Rawit,32909,62,0.0,Normal,Pak Asep
+2024-02-14 00:00:00,Cabai Rawit,45262,70,0.0,Normal,CV. Hijau
+2024-02-15 00:00:00,Cabai Rawit,33468,70,0.0,Normal,Tani Makmur
+2024-02-16 00:00:00,Cabe Rawit Merah,34656,32,0.0,Normal,Tani Makmur
+2024-02-17 00:00:00,Cabe Rawit Merah,31832,48,0.0,Normal,CV. Hijau
+2024-02-18 00:00:00,Cabai Rawit,35899,44,,Normal,Tani Makmur
+2024-02-19 00:00:00,Cabai Rawit,37660,41,0.0,Normal,CV. Hijau
+2024-02-20 00:00:00,Rawit Setan,36488,43,0.0,Normal,Pak Asep
+2024-02-21 00:00:00,Rawit Setan,31821,40,0.0,Normal,Tani Makmur
+2024-02-22 00:00:00,Rawit Setan,35445,48,,Normal,CV. Hijau
+2024-02-23 00:00:00,Cabai Rawit,40587,46,0.0,Normal,Pak Asep
+2024-02-24 00:00:00,Cabai Rawit,47063,48,0.0,Normal,Tani Makmur
+2024-02-25 00:00:00,Cabe Rawit Merah,33394,63,,Normal,CV. Hijau
+2024-02-26 00:00:00,Cabe Rawit Merah,32812,49,0.0,Normal,CV. Hijau
+2024-02-27 00:00:00,Rawit Setan,38747,57,0.0,Normal,Tani Makmur
+2024-02-28 00:00:00,Rawit Setan,41702,57 kg,0.0,Normal,Pak Asep
+2024-02-29 00:00:00,Rawit Setan,28949,66,0.0,Normal,CV. Hijau
+2024-03-01 00:00:00,Cabe Rawit Merah,33036,57,,Normal,Tani Makmur
+2024-03-02 00:00:00,Cabai Rawit,35170,71,0.0,Normal,Pak Asep
+TGL_ERROR,Cabai Rawit,37874,56,,Normal,CV. Hijau
+2024-03-04 00:00:00,Cabai Rawit,41834,56,0.0,Normal,Pak Asep
+2024-03-05 00:00:00,Cabai Rawit,41888,43,0.0,Normal,Tani Makmur
+2024-03-06 00:00:00,Cabai Rawit,Idr 37699,63,0.0,Normal,Tani Makmur
+2024-03-07 00:00:00,Cabe Rawit Merah,37635,53 kg,0.0,Normal,CV. Hijau
+2024-03-08 00:00:00,Cabe Rawit Merah,32781,48,0.0,Normal,CV. Hijau
+2024-03-09 00:00:00,Cabe Rawit Merah,Rp 40742,44,,Normal,CV. Hijau
+2024-03-10 00:00:00,Cabai Rawit,Rp 37121,68,0.0,Normal,Pak Asep
+2024-03-11 00:00:00,Cabai Rawit,29364,38 kg,0.0,Normal,Pak Asep
+2024-03-12 00:00:00,Rawit Setan,38661,69,0.0,Normal,Tani Makmur
+2024-03-13 00:00:00,Rawit Setan,33558,47,0.0,Normal,Tani Makmur
+2024-03-14 00:00:00,Cabe Rawit Merah,33072,39,0.0,Normal,CV. Hijau
+2024-03-15 00:00:00,Rawit Setan,Idr 33841,65,0.0,Normal,Tani Makmur
+2024-03-16 00:00:00,Rawit Setan,35562,44,0.0,Normal,CV. Hijau
+2024-03-17 00:00:00,Rawit Setan,32301,57,0.0,Normal,Pak Asep
+2024-03-18 00:00:00,Rawit Setan,37215,59,0.0,Normal,Tani Makmur
+2024-03-19 00:00:00,Rawit Setan,33747,45,0.0,Normal,CV. Hijau
+2024-03-20 00:00:00,Cabe Rawit Merah,39627,39,0.0,Normal,CV. Hijau
+2024-03-21 00:00:00,Rawit Setan,39935,55 kg,0.0,Normal,Pak Asep
+2024-03-22 00:00:00,Cabai Rawit,39352,52,,Normal,CV. Hijau
+2024-03-23 00:00:00,Rawit Setan,41405,47,,Normal,CV. Hijau
+2024-03-24 00:00:00,Cabe Rawit Merah,38125,30,0.0,Normal,Pak Asep
+2024-03-25 00:00:00,Cabe Rawit Merah,37391,33,,Normal,CV. Hijau
+2024-03-26 00:00:00,Cabai Rawit,Idr 37870,64,0.0,Normal,CV. Hijau
+2024-03-27 00:00:00,Rawit Setan,34498,52,0.0,Normal,CV. Hijau
+2024-03-28 00:00:00,Cabe Rawit Merah,37774,50,,Normal,Pak Asep
+2024-03-29 00:00:00,Cabai Rawit,32705,60,0.0,Normal,Tani Makmur
+2024-03-30 00:00:00,Rawit Setan,38502,54 kg,0.0,Normal,Tani Makmur
+2024-03-31 00:00:00,Cabai Rawit,36581,32,,Normal,CV. Hijau
+2024-04-01 00:00:00,Rawit Setan,34843,38,0.0,Normal,Pak Asep
+2024-04-02 00:00:00,Rawit Setan,36361,57,,Normal,CV. Hijau
+2024-04-03 00:00:00,Cabai Rawit,92026,116,1.0,Lebaran,CV. Hijau
+2024-04-04 00:00:00,Rawit Setan,108665,97,1.0,Lebaran,Pak Asep
+2024-04-05 00:00:00,Rawit Setan,99769,124,1.0,Lebaran,Pak Asep
+2024-04-06 00:00:00,Rawit Setan,107849,83,1.0,Lebaran,Pak Asep
+2024-04-07 00:00:00,Cabe Rawit Merah,84564,103,1.0,Lebaran,CV. Hijau
+2024-04-08 00:00:00,Cabe Rawit Merah,95192,100,1.0,Lebaran,Pak Asep
+2024-04-09 00:00:00,Cabe Rawit Merah,89453,108,,Lebaran,Pak Asep
+2024-04-10 00:00:00,Rawit Setan,500,94,1.0,Lebaran,CV. Hijau
+2024-04-11 00:00:00,Cabai Rawit,94218,92,1.0,Lebaran,Tani Makmur
+2024-04-12 00:00:00,Cabe Rawit Merah,72887,110,1.0,Lebaran,Tani Makmur
+2024-04-13 00:00:00,Cabe Rawit Merah,97799,87,1.0,Lebaran,Pak Asep
+2024-04-14 00:00:00,Cabe Rawit Merah,35567,53,0.0,Normal,Pak Asep
+2024-04-15 00:00:00,Rawit Setan,Rp 40645,42,0.0,Normal,CV. Hijau
+2024-04-16 00:00:00,Rawit Setan,30201,58,0.0,Normal,CV. Hijau
+2024-04-17 00:00:00,Cabai Rawit,24847,35,,Normal,Pak Asep
+2024-04-18 00:00:00,Cabai Rawit,31566,50,0.0,Normal,Pak Asep
+2024-04-19 00:00:00,Rawit Setan,32522,46,0.0,Normal,Tani Makmur
+2024-04-20 00:00:00,Rawit Setan,36081,57,0.0,Normal,Pak Asep
+2024-04-21 00:00:00,Cabai Rawit,32862,48,0.0,Normal,Pak Asep
+2024-04-22 00:00:00,Cabai Rawit,28141,57 kg,0.0,Normal,Pak Asep
+2024-04-23 00:00:00,Rawit Setan,37450,49,0.0,Normal,CV. Hijau
+2024-04-24 00:00:00,Cabai Rawit,31110,44,0.0,Normal,Pak Asep
+2024-04-25 00:00:00,Cabai Rawit,38476,50,0.0,Normal,Pak Asep
+TGL_ERROR,Cabe Rawit Merah,42390,39,,Normal,Tani Makmur
+2024-04-27 00:00:00,Cabe Rawit Merah,32581,42,0.0,Normal,Tani Makmur
+2024-04-28 00:00:00,Rawit Setan,32387,53,0.0,Normal,Tani Makmur
+2024-04-29 00:00:00,Cabe Rawit Merah,29986,67,,Normal,Pak Asep
+2024-04-30 00:00:00,Rawit Setan,33751,46,0.0,Normal,CV. Hijau
+2024-05-01 00:00:00,Cabe Rawit Merah,35983,49,0.0,Normal,Tani Makmur
+2024-05-02 00:00:00,Rawit Setan,35145,63,0.0,Normal,CV. Hijau
+2024-05-03 00:00:00,Rawit Setan,29812,34,0.0,Normal,CV. Hijau
+2024-05-04 00:00:00,Cabai Rawit,37089,59,,Normal,CV. Hijau
+2024-05-05 00:00:00,Rawit Setan,30334,42,0.0,Normal,Pak Asep
+2024-05-06 00:00:00,Rawit Setan,Rp 31612,42,0.0,Normal,Pak Asep
+2024-05-07 00:00:00,Cabe Rawit Merah,40640,46,0.0,Normal,CV. Hijau
+2024-05-08 00:00:00,Cabe Rawit Merah,36881,59,0.0,Normal,Tani Makmur
+2024-05-09 00:00:00,Cabai Rawit,33560,62,0.0,Normal,Pak Asep
+2024-05-10 00:00:00,Rawit Setan,37467,51,0.0,Normal,Pak Asep
+2024-05-11 00:00:00,Cabai Rawit,32570,41,0.0,Normal,Pak Asep
+2024-05-12 00:00:00,Rawit Setan,37712,38,0.0,Normal,CV. Hijau
+2024-05-13 00:00:00,Rawit Setan,32893,59,0.0,Normal,Pak Asep
+2024-05-14 00:00:00,Cabe Rawit Merah,33972,60,0.0,Normal,CV. Hijau
+2024-05-15 00:00:00,Cabai Rawit,36799,62,0.0,Normal,CV. Hijau
+2024-05-16 00:00:00,Cabe Rawit Merah,21607,42,0.0,Normal,CV. Hijau
+2024-05-17 00:00:00,Cabai Rawit,Rp 31638,45,,Normal,CV. Hijau
+2024-05-18 00:00:00,Cabai Rawit,28105,47 kg,0.0,Normal,Tani Makmur
+2024-05-19 00:00:00,Cabe Rawit Merah,Idr 43873,46,0.0,Normal,Tani Makmur
+2024-05-20 00:00:00,Rawit Setan,39117,49,0.0,Normal,Pak Asep
+2024-05-21 00:00:00,Cabe Rawit Merah,35361,37,0.0,Normal,CV. Hijau
+2024-05-22 00:00:00,Rawit Setan,36051,52,0.0,Normal,CV. Hijau
+2024-05-23 00:00:00,Cabe Rawit Merah,35091,27,0.0,Normal,Tani Makmur
+2024-05-24 00:00:00,Cabe Rawit Merah,38991,49,0.0,Normal,Tani Makmur
+2024-05-25 00:00:00,Cabai Rawit,33973,46,0.0,Normal,Tani Makmur
+2024-05-26 00:00:00,Cabe Rawit Merah,35293,46 kg,0.0,Normal,CV. Hijau
+2024-05-27 00:00:00,Rawit Setan,42289,45,0.0,Normal,CV. Hijau
+2024-05-28 00:00:00,Cabe Rawit Merah,37035,48,0.0,Normal,Pak Asep
+2024-05-29 00:00:00,Cabai Rawit,35300,56 kg,0.0,Normal,Tani Makmur
+2024-05-30 00:00:00,Rawit Setan,37540,44,0.0,Normal,CV. Hijau
+2024-05-31 00:00:00,Cabe Rawit Merah,36551,72,,Normal,CV. Hijau
+2024-06-01 00:00:00,Cabe Rawit Merah,27721,43,0.0,Normal,Tani Makmur
+2024-06-02 00:00:00,Cabai Rawit,33923,49,,Normal,Pak Asep
+2024-06-03 00:00:00,Cabai Rawit,37946,59,0.0,Normal,CV. Hijau
+2024-06-04 00:00:00,Cabai Rawit,35971,49,0.0,Normal,CV. Hijau
+2024-06-05 00:00:00,Rawit Setan,38563,60,,Normal,CV. Hijau
+2024-06-06 00:00:00,Cabe Rawit Merah,Idr 38550,46,0.0,Normal,Tani Makmur
+2024-06-07 00:00:00,Cabai Rawit,35095,41,0.0,Normal,CV. Hijau
+2024-06-08 00:00:00,Rawit Setan,34998,58,0.0,Normal,Pak Asep
+2024-06-09 00:00:00,Cabe Rawit Merah,28558,59 kg,0.0,Normal,CV. Hijau
+2024-06-10 00:00:00,Cabai Rawit,80884,88,,Idul Adha,CV. Hijau
+2024-06-11 00:00:00,Rawit Setan,86176,109,1.0,Idul Adha,CV. Hijau
+2024-06-12 00:00:00,Rawit Setan,76351,89,1.0,Idul Adha,Pak Asep
+2024-06-13 00:00:00,Cabe Rawit Merah,94501,107,1.0,Idul Adha,CV. Hijau
+2024-06-14 00:00:00,Cabai Rawit,Rp 98936,94,,Idul Adha,Pak Asep
+2024-06-15 00:00:00,Rawit Setan,105268,88,1.0,Idul Adha,Pak Asep
+2024-06-16 00:00:00,Cabai Rawit,97970,121,1.0,Idul Adha,Tani Makmur
+2024-06-17 00:00:00,Cabe Rawit Merah,90385,49,1.0,Idul Adha,Pak Asep
+2024-06-18 00:00:00,Rawit Setan,80641,129 kg,1.0,Idul Adha,CV. Hijau
+2024-06-19 00:00:00,Rawit Setan,83834,81,1.0,Idul Adha,Tani Makmur
+2024-06-20 00:00:00,Cabe Rawit Merah,87506,90,1.0,Idul Adha,Pak Asep
+2024-06-21 00:00:00,Rawit Setan,28930,56,0.0,Normal,CV. Hijau
+2024-06-22 00:00:00,Rawit Setan,39953,45,0.0,Normal,Pak Asep
+2024-06-23 00:00:00,Cabai Rawit,36666,40,0.0,Normal,Tani Makmur
+2024-06-24 00:00:00,Cabai Rawit,31587,60,,Normal,Tani Makmur
+2024-06-25 00:00:00,Rawit Setan,35375,36,0.0,Normal,CV. Hijau
+2024-06-26 00:00:00,Rawit Setan,39810,58,0.0,Normal,Tani Makmur
+2024-06-27 00:00:00,Cabe Rawit Merah,37666,59 kg,0.0,Normal,CV. Hijau
+2024-06-28 00:00:00,Rawit Setan,31155,50,,Normal,CV. Hijau
+2024-06-29 00:00:00,Cabai Rawit,27342,48,0.0,Normal,Tani Makmur
+2024-06-30 00:00:00,Cabe Rawit Merah,33814,59,0.0,Normal,CV. Hijau
+2024-07-01 00:00:00,Cabe Rawit Merah,38596,46,0.0,Normal,Tani Makmur
+2024-07-02 00:00:00,Cabe Rawit Merah,37754,45,0.0,Normal,Tani Makmur
+2024-07-03 00:00:00,Cabe Rawit Merah,Rp 35905,52,0.0,Normal,CV. Hijau
+2024-07-04 00:00:00,Rawit Setan,39004,47,0.0,Normal,Pak Asep
+2024-07-05 00:00:00,Rawit Setan,38808,45,0.0,Normal,CV. Hijau
+2024-07-06 00:00:00,Cabe Rawit Merah,37915,72,0.0,Normal,Tani Makmur
+2024-07-07 00:00:00,Rawit Setan,Rp 27827,42,0.0,Normal,CV. Hijau
+2024-07-08 00:00:00,Rawit Setan,36078,46,0.0,Normal,Tani Makmur
+2024-07-09 00:00:00,Cabai Rawit,37976,51,0.0,Normal,Pak Asep
+2024-07-10 00:00:00,Cabe Rawit Merah,30460,54,0.0,Normal,Tani Makmur
+2024-07-11 00:00:00,Cabai Rawit,32828,57,,Normal,Pak Asep
+2024-07-12 00:00:00,Rawit Setan,33516,38,0.0,Normal,Tani Makmur
+TGL_ERROR,Cabai Rawit,40240,49,0.0,Normal,CV. Hijau
+2024-07-14 00:00:00,Rawit Setan,34637,44,0.0,Normal,Tani Makmur
+2024-07-15 00:00:00,Rawit Setan,28201,46,,Normal,Pak Asep
+2024-07-16 00:00:00,Cabai Rawit,34508,49,0.0,Normal,Pak Asep
+2024-07-17 00:00:00,Cabai Rawit,32722,82,0.0,Normal,Pak Asep
+2024-07-18 00:00:00,Rawit Setan,33322,53,0.0,Normal,Tani Makmur
+2024-07-19 00:00:00,Rawit Setan,39029,39,0.0,Normal,CV. Hijau
+2024-07-20 00:00:00,Cabai Rawit,28465,37,,Normal,CV. Hijau
+2024-07-21 00:00:00,Cabe Rawit Merah,Rp 27859,58,0.0,Normal,CV. Hijau
+2024-07-22 00:00:00,Cabai Rawit,35068,55,0.0,Normal,CV. Hijau
+2024-07-23 00:00:00,Rawit Setan,33856,59,0.0,Normal,CV. Hijau
+2024-07-24 00:00:00,Rawit Setan,34170,61,0.0,Normal,Tani Makmur
+2024-07-25 00:00:00,Rawit Setan,37905,51,0.0,Normal,CV. Hijau
+2024-07-26 00:00:00,Rawit Setan,33223,60,0.0,Normal,CV. Hijau
+2024-07-27 00:00:00,Rawit Setan,26889,42,0.0,Normal,Pak Asep
+2024-07-28 00:00:00,Cabe Rawit Merah,32650,42,0.0,Normal,Pak Asep
+2024-07-29 00:00:00,Rawit Setan,31081,43,,Normal,Pak Asep
+2024-07-30 00:00:00,Rawit Setan,37205,52,,Normal,Tani Makmur
+2024-07-31 00:00:00,Cabe Rawit Merah,36967,58,0.0,Normal,CV. Hijau
+2024-08-01 00:00:00,Cabe Rawit Merah,38019,65,0.0,Normal,CV. Hijau
+2024-08-02 00:00:00,Rawit Setan,36273,46,0.0,Normal,Pak Asep
+2024-08-03 00:00:00,Cabe Rawit Merah,30795,52,0.0,Normal,Pak Asep
+2024-08-04 00:00:00,Cabe Rawit Merah,Idr 35433,45,0.0,Normal,CV. Hijau
+2024-08-05 00:00:00,Cabe Rawit Merah,33654,61 kg,0.0,Normal,Tani Makmur
+2024-08-06 00:00:00,Rawit Setan,Idr 37425,39,0.0,Normal,Pak Asep
+2024-08-07 00:00:00,Rawit Setan,33541,43,0.0,Normal,Tani Makmur
+2024-08-08 00:00:00,Rawit Setan,35508,53,,Normal,Tani Makmur
+2024-08-09 00:00:00,Cabai Rawit,35702,61,0.0,Normal,CV. Hijau
+TGL_ERROR,Cabai Rawit,30442,56,0.0,Normal,CV. Hijau
+2024-08-11 00:00:00,Rawit Setan,35210,35,0.0,Normal,Pak Asep
+2024-08-12 00:00:00,Cabai Rawit,32243,51,0.0,Normal,Pak Asep
+2024-08-13 00:00:00,Rawit Setan,35327,44,,Normal,Tani Makmur
+TGL_ERROR,Cabe Rawit Merah,36508,48,0.0,Normal,Tani Makmur
+2024-08-15 00:00:00,Cabe Rawit Merah,36948,47,0.0,Normal,Pak Asep
+2024-08-16 00:00:00,Rawit Setan,44529,57,0.0,Normal,Tani Makmur
+2024-08-17 00:00:00,Cabai Rawit,36286,56,0.0,Normal,Pak Asep
+2024-08-18 00:00:00,Cabe Rawit Merah,35734,52,0.0,Normal,Pak Asep
+2024-08-19 00:00:00,Cabe Rawit Merah,35199,42,0.0,Normal,Tani Makmur
+2024-08-20 00:00:00,Rawit Setan,45805,57,0.0,Normal,Tani Makmur
+2024-08-21 00:00:00,Cabe Rawit Merah,Idr 32790,36,,Normal,Pak Asep
+2024-08-22 00:00:00,Rawit Setan,35491,48,0.0,Normal,CV. Hijau
+2024-08-23 00:00:00,Rawit Setan,40165,44,0.0,Normal,CV. Hijau
+TGL_ERROR,Rawit Setan,36618,49,0.0,Normal,CV. Hijau
+2024-08-25 00:00:00,Cabai Rawit,33394,26,0.0,Normal,CV. Hijau
+2024-08-26 00:00:00,Cabai Rawit,32296,55,0.0,Normal,CV. Hijau
+2024-08-27 00:00:00,Cabe Rawit Merah,37790,48,0.0,Normal,Pak Asep
+2024-08-28 00:00:00,Rawit Setan,33554,47,0.0,Normal,Tani Makmur
+2024-08-29 00:00:00,Cabai Rawit,25615,52 kg,0.0,Normal,Pak Asep
+2024-08-30 00:00:00,Cabai Rawit,34334,67,0.0,Normal,Pak Asep
+2024-08-31 00:00:00,Cabai Rawit,36821,49,0.0,Normal,CV. Hijau
+2024-09-01 00:00:00,Cabai Rawit,36989,59,0.0,Normal,Pak Asep
+2024-09-02 00:00:00,Cabai Rawit,32512,43,0.0,Normal,CV. Hijau
+2024-09-03 00:00:00,Cabe Rawit Merah,28221,58,,Normal,Pak Asep
+2024-09-04 00:00:00,Rawit Setan,30773,53,0.0,Normal,Tani Makmur
+2024-09-05 00:00:00,Cabe Rawit Merah,39250,77,0.0,Normal,CV. Hijau
+2024-09-06 00:00:00,Rawit Setan,41439,33,0.0,Normal,Pak Asep
+2024-09-07 00:00:00,Cabai Rawit,34404,-20,0.0,Normal,Tani Makmur
+2024-09-08 00:00:00,Cabai Rawit,30213,49,0.0,Normal,CV. Hijau
+2024-09-09 00:00:00,Rawit Setan,31803,48,,Normal,Tani Makmur
+2024-09-10 00:00:00,Cabe Rawit Merah,40454,61,0.0,Normal,Tani Makmur
+2024-09-11 00:00:00,Cabe Rawit Merah,Rp 37333,39,0.0,Normal,CV. Hijau
+2024-09-12 00:00:00,Cabai Rawit,34458,71 kg,0.0,Normal,Tani Makmur
+2024-09-13 00:00:00,Cabe Rawit Merah,31443,51,,Normal,Tani Makmur
+2024-09-14 00:00:00,Cabe Rawit Merah,40709,52,0.0,Normal,Pak Asep
+2024-09-15 00:00:00,Rawit Setan,33206,54,0.0,Normal,CV. Hijau
+2024-09-16 00:00:00,Rawit Setan,40884,65,0.0,Normal,CV. Hijau
+2024-09-17 00:00:00,Cabe Rawit Merah,34653,51,0.0,Normal,Tani Makmur
+2024-09-18 00:00:00,Cabe Rawit Merah,36080,52,0.0,Normal,Tani Makmur
+2024-09-19 00:00:00,Rawit Setan,30360,52,0.0,Normal,Pak Asep
+2024-09-20 00:00:00,Rawit Setan,Idr 38443,50,0.0,Normal,Pak Asep
+2024-09-21 00:00:00,Cabe Rawit Merah,28708,47,,Normal,CV. Hijau
+2024-09-22 00:00:00,Rawit Setan,37280,56,0.0,Normal,Tani Makmur
+2024-09-23 00:00:00,Cabe Rawit Merah,35508,42,,Normal,Tani Makmur
+2024-09-24 00:00:00,Cabe Rawit Merah,37215,31 kg,0.0,Normal,CV. Hijau
+2024-09-25 00:00:00,Cabe Rawit Merah,30751,43,0.0,Normal,Pak Asep
+2024-09-26 00:00:00,Rawit Setan,37472,79,0.0,Normal,Pak Asep
+2024-09-27 00:00:00,Cabe Rawit Merah,34207,50,,Normal,Tani Makmur
+2024-09-28 00:00:00,Cabai Rawit,34391,42,0.0,Normal,Pak Asep
+2024-09-29 00:00:00,Cabai Rawit,Idr 33702,49,0.0,Normal,Pak Asep
+2024-09-30 00:00:00,Rawit Setan,42307,30,0.0,Normal,Pak Asep
+2024-10-01 00:00:00,Rawit Setan,37389,50,0.0,Normal,Pak Asep
+2024-10-02 00:00:00,Cabai Rawit,37922,36,0.0,Normal,Pak Asep
+2024-10-03 00:00:00,Cabai Rawit,Idr 27622,64,0.0,Normal,Tani Makmur
+2024-10-04 00:00:00,Cabai Rawit,30419,63,0.0,Normal,Tani Makmur
+2024-10-05 00:00:00,Rawit Setan,43874,59,0.0,Normal,Pak Asep
+2024-10-06 00:00:00,Cabe Rawit Merah,34087,54,0.0,Normal,CV. Hijau
+2024-10-07 00:00:00,Rawit Setan,35405,19,0.0,Normal,Pak Asep
+2024-10-08 00:00:00,Cabai Rawit,39586,56,0.0,Normal,Pak Asep
+2024-10-09 00:00:00,Cabai Rawit,39035,52,0.0,Normal,Pak Asep
+2024-10-10 00:00:00,Cabe Rawit Merah,36619,52,0.0,Normal,Pak Asep
+2024-10-11 00:00:00,Cabe Rawit Merah,32371,50,0.0,Normal,Tani Makmur
+2024-10-12 00:00:00,Cabe Rawit Merah,35276,56,0.0,Normal,Tani Makmur
+2024-10-13 00:00:00,Rawit Setan,33238,63,0.0,Normal,Tani Makmur
+2024-10-14 00:00:00,Rawit Setan,32993,64,0.0,Normal,CV. Hijau
+2024-10-15 00:00:00,Cabai Rawit,32627,51,0.0,Normal,CV. Hijau
+2024-10-16 00:00:00,Cabe Rawit Merah,35561,26,0.0,Normal,Pak Asep
+2024-10-17 00:00:00,Cabe Rawit Merah,28522,45,,Normal,CV. Hijau
+2024-10-18 00:00:00,Rawit Setan,32508,44,0.0,Normal,CV. Hijau
+2024-10-19 00:00:00,Cabai Rawit,38983,56,0.0,Normal,CV. Hijau
+2024-10-20 00:00:00,Rawit Setan,34226,45,0.0,Normal,Tani Makmur
+TGL_ERROR,Rawit Setan,31828,49,0.0,Normal,Tani Makmur
+2024-10-22 00:00:00,Cabai Rawit,24524,43,0.0,Normal,Tani Makmur
+2024-10-23 00:00:00,Rawit Setan,37690,44,,Normal,Tani Makmur
+2024-10-24 00:00:00,Rawit Setan,37617,37,0.0,Normal,Pak Asep
+2024-10-25 00:00:00,Rawit Setan,31933,42,0.0,Normal,Tani Makmur
+2024-10-26 00:00:00,Cabe Rawit Merah,38080,61,0.0,Normal,CV. Hijau
+2024-10-27 00:00:00,Rawit Setan,2000000,46,0.0,Normal,Tani Makmur
+2024-10-28 00:00:00,Cabai Rawit,29815,46,0.0,Normal,Tani Makmur
+2024-10-29 00:00:00,Cabai Rawit,39487,47,0.0,Normal,Pak Asep
+2024-10-30 00:00:00,Cabai Rawit,31091,32,,Normal,Tani Makmur
+2024-10-31 00:00:00,Cabe Rawit Merah,30148,34,0.0,Normal,Pak Asep
+2024-11-01 00:00:00,Cabai Rawit,31543,61,0.0,Normal,Pak Asep
+2024-11-02 00:00:00,Cabe Rawit Merah,29463,34,0.0,Normal,Pak Asep
+2024-11-03 00:00:00,Cabe Rawit Merah,37429,43,0.0,Normal,Pak Asep
+2024-11-04 00:00:00,Rawit Setan,38823,59,0.0,Normal,Tani Makmur
+2024-11-05 00:00:00,Rawit Setan,41082,49,0.0,Normal,CV. Hijau
+2024-11-06 00:00:00,Rawit Setan,36306,40 kg,0.0,Normal,Pak Asep
+2024-11-07 00:00:00,Cabai Rawit,32991,58,0.0,Normal,CV. Hijau
+2024-11-08 00:00:00,Rawit Setan,34458,50,0.0,Normal,Tani Makmur
+2024-11-09 00:00:00,Rawit Setan,29765,57,0.0,Normal,CV. Hijau
+2024-11-10 00:00:00,Cabai Rawit,36464,59,0.0,Normal,CV. Hijau
+2024-11-11 00:00:00,Cabe Rawit Merah,30648,39,0.0,Normal,Pak Asep
+2024-11-12 00:00:00,Cabe Rawit Merah,40020,45,0.0,Normal,Tani Makmur
+2024-11-13 00:00:00,Rawit Setan,30849,58,0.0,Normal,Pak Asep
+2024-11-14 00:00:00,Cabe Rawit Merah,32521,47,0.0,Normal,CV. Hijau
+2024-11-15 00:00:00,Rawit Setan,33235,56,0.0,Normal,CV. Hijau
+2024-11-16 00:00:00,Cabe Rawit Merah,39043,65,0.0,Normal,Pak Asep
+2024-11-17 00:00:00,Cabai Rawit,37328,45,0.0,Normal,Tani Makmur
+2024-11-18 00:00:00,Cabe Rawit Merah,35085,62,0.0,Normal,CV. Hijau
+2024-11-19 00:00:00,Cabe Rawit Merah,32654,44,0.0,Normal,Tani Makmur
+2024-11-20 00:00:00,Cabe Rawit Merah,38924,63,0.0,Normal,CV. Hijau
+2024-11-21 00:00:00,Rawit Setan,36422,50,0.0,Normal,CV. Hijau
+2024-11-22 00:00:00,Rawit Setan,32008,24,0.0,Normal,Tani Makmur
+2024-11-23 00:00:00,Rawit Setan,36616,42,0.0,Normal,Pak Asep
+2024-11-24 00:00:00,Cabai Rawit,37557,19,,Normal,Tani Makmur
+2024-11-25 00:00:00,Cabai Rawit,29944,48,0.0,Normal,Tani Makmur
+2024-11-26 00:00:00,Cabai Rawit,34253,46 kg,0.0,Normal,CV. Hijau
+2024-11-27 00:00:00,Cabai Rawit,34661,66,0.0,Normal,Pak Asep
+2024-11-28 00:00:00,Rawit Setan,40255,43,0.0,Normal,Pak Asep
+2024-11-29 00:00:00,Cabai Rawit,40611,56,0.0,Normal,Pak Asep
+2024-11-30 00:00:00,Cabe Rawit Merah,33152,58,,Normal,Tani Makmur
+2024-12-01 00:00:00,Cabe Rawit Merah,34816,38,0.0,Normal,CV. Hijau
+2024-12-02 00:00:00,Cabe Rawit Merah,34015,30,0.0,Normal,Tani Makmur
+2024-12-03 00:00:00,Rawit Setan,34592,38,0.0,Normal,CV. Hijau
+2024-12-04 00:00:00,Cabe Rawit Merah,34745,49 kg,0.0,Normal,Tani Makmur
+2024-12-05 00:00:00,Cabai Rawit,29700,49,0.0,Normal,Tani Makmur
+2024-12-06 00:00:00,Cabe Rawit Merah,33112,35,0.0,Normal,Tani Makmur
+2024-12-07 00:00:00,Cabe Rawit Merah,37865,40 kg,0.0,Normal,Pak Asep
+2024-12-08 00:00:00,Rawit Setan,32837,47,0.0,Normal,Tani Makmur
+2024-12-09 00:00:00,Rawit Setan,46313,54,0.0,Normal,Tani Makmur
+2024-12-10 00:00:00,Rawit Setan,31925,52,,Normal,CV. Hijau
+2024-12-11 00:00:00,Cabe Rawit Merah,34017,68,0.0,Normal,Pak Asep
+2024-12-12 00:00:00,Cabai Rawit,34741,34 kg,0.0,Normal,Tani Makmur
+2024-12-13 00:00:00,Cabe Rawit Merah,31491,67,0.0,Normal,Pak Asep
+2024-12-14 00:00:00,Rawit Setan,Idr 33641,53,0.0,Normal,Tani Makmur
+2024-12-15 00:00:00,Rawit Setan,35178,55,0.0,Normal,CV. Hijau
+2024-12-16 00:00:00,Cabe Rawit Merah,33583,56,0.0,Normal,CV. Hijau
+2024-12-17 00:00:00,Cabe Rawit Merah,42582,38,0.0,Normal,Pak Asep
+2024-12-18 00:00:00,Cabe Rawit Merah,83896,78,1.0,Nataru,Pak Asep
+2024-12-19 00:00:00,Cabai Rawit,108272,147,1.0,Nataru,CV. Hijau
+2024-12-20 00:00:00,Cabai Rawit,78969,101,1.0,Nataru,Pak Asep
+2024-12-21 00:00:00,Cabe Rawit Merah,62573,79,1.0,Nataru,Tani Makmur
+2024-12-22 00:00:00,Rawit Setan,81375,117,1.0,Nataru,Tani Makmur
+2024-12-23 00:00:00,Cabai Rawit,75477,111,1.0,Nataru,CV. Hijau
+2024-12-24 00:00:00,Cabai Rawit,102356,95,1.0,Nataru,Pak Asep
+2024-12-25 00:00:00,Cabe Rawit Merah,99192,80,1.0,Nataru,Pak Asep
+2024-12-26 00:00:00,Cabai Rawit,97448,67,1.0,Nataru,CV. Hijau
+2024-12-27 00:00:00,Cabe Rawit Merah,102872,112,1.0,Nataru,CV. Hijau
+2024-12-28 00:00:00,Cabai Rawit,77766,72,1.0,Nataru,Pak Asep
+2024-12-29 00:00:00,Cabe Rawit Merah,38501,41,0.0,Normal,CV. Hijau
+2024-12-30 00:00:00,Rawit Setan,33110,44 kg,0.0,Normal,CV. Hijau
+2024-12-31 00:00:00,Rawit Setan,37957,62 kg,0.0,Normal,Tani Makmur
+2025-01-01 00:00:00,Cabai Rawit,36902,45,0.0,Normal,CV. Hijau
+2025-01-02 00:00:00,Rawit Setan,40845,64,,Normal,Pak Asep
+2025-01-03 00:00:00,Cabai Rawit,34122,39,0.0,Normal,Tani Makmur
+2025-01-04 00:00:00,Cabe Rawit Merah,39922,52,0.0,Normal,Pak Asep
+2025-01-05 00:00:00,Cabe Rawit Merah,36739,55,0.0,Normal,Pak Asep
+2025-01-06 00:00:00,Rawit Setan,37815,46,,Normal,Pak Asep
+2025-01-07 00:00:00,Rawit Setan,35075,41,0.0,Normal,Tani Makmur
+2025-01-08 00:00:00,Cabai Rawit,43110,56,0.0,Normal,Pak Asep
+2025-01-09 00:00:00,Cabe Rawit Merah,33856,50,0.0,Normal,CV. Hijau
+2025-01-10 00:00:00,Cabe Rawit Merah,33176,39,0.0,Normal,CV. Hijau
+2025-01-11 00:00:00,Cabe Rawit Merah,33017,37 kg,0.0,Normal,Pak Asep
+2025-01-12 00:00:00,Rawit Setan,37723,37,0.0,Normal,Tani Makmur
+2025-01-13 00:00:00,Rawit Setan,34163,45,0.0,Normal,Tani Makmur
+2025-01-14 00:00:00,Rawit Setan,Idr 38830,53,0.0,Normal,Tani Makmur
+2025-01-15 00:00:00,Cabai Rawit,34556,57,0.0,Normal,Tani Makmur
+2025-01-16 00:00:00,Cabai Rawit,41124,36,0.0,Normal,CV. Hijau
+2025-01-17 00:00:00,Cabe Rawit Merah,39053,30,0.0,Normal,CV. Hijau
+2025-01-18 00:00:00,Rawit Setan,35250,45,0.0,Normal,CV. Hijau
+2025-01-19 00:00:00,Cabe Rawit Merah,37263,63,0.0,Normal,Tani Makmur
+2025-01-20 00:00:00,Cabe Rawit Merah,34323,59,0.0,Normal,Tani Makmur
+2025-01-21 00:00:00,Rawit Setan,36420,52,0.0,Normal,CV. Hijau
+2025-01-22 00:00:00,Rawit Setan,38100,46,0.0,Normal,CV. Hijau
+2025-01-23 00:00:00,Cabe Rawit Merah,34209,60,0.0,Normal,Pak Asep
+2025-01-24 00:00:00,Rawit Setan,38997,53,0.0,Normal,Pak Asep
+TGL_ERROR,Rawit Setan,32869,60,,Normal,Tani Makmur
+2025-01-26 00:00:00,Rawit Setan,44401,39,0.0,Normal,Tani Makmur
+2025-01-27 00:00:00,Cabe Rawit Merah,38274,38,0.0,Normal,Pak Asep
+2025-01-28 00:00:00,Cabe Rawit Merah,41356,69,0.0,Normal,Pak Asep
+2025-01-29 00:00:00,Rawit Setan,32474,36,,Normal,Pak Asep
+2025-01-30 00:00:00,Rawit Setan,Idr 34603,66 kg,,Normal,Tani Makmur
+2025-01-31 00:00:00,Cabe Rawit Merah,26718,50,0.0,Normal,Tani Makmur
+2025-02-01 00:00:00,Cabe Rawit Merah,35057,51,0.0,Normal,CV. Hijau
+2025-02-02 00:00:00,Cabai Rawit,35933,63,0.0,Normal,Pak Asep
+2025-02-03 00:00:00,Cabai Rawit,37100,61,0.0,Normal,CV. Hijau
+2025-02-04 00:00:00,Cabai Rawit,35538,64,0.0,Normal,Pak Asep
+2025-02-05 00:00:00,Rawit Setan,35980,49,0.0,Normal,Tani Makmur
+2025-02-06 00:00:00,Rawit Setan,40881,50,,Normal,CV. Hijau
+2025-02-07 00:00:00,Cabe Rawit Merah,35052,47,0.0,Normal,CV. Hijau
+2025-02-08 00:00:00,Cabai Rawit,33876,45,0.0,Normal,Tani Makmur
+2025-02-09 00:00:00,Rawit Setan,32157,42,0.0,Normal,Pak Asep
+2025-02-10 00:00:00,Cabe Rawit Merah,29233,57,0.0,Normal,Tani Makmur
+2025-02-11 00:00:00,Cabai Rawit,37069,44,,Normal,Pak Asep
+2025-02-12 00:00:00,Cabai Rawit,32974,70,0.0,Normal,CV. Hijau
+2025-02-13 00:00:00,Cabai Rawit,36489,62,0.0,Normal,CV. Hijau
+2025-02-14 00:00:00,Rawit Setan,36143,52,,Normal,CV. Hijau
+2025-02-15 00:00:00,Rawit Setan,35799,54,,Normal,Tani Makmur
+2025-02-16 00:00:00,Cabai Rawit,41205,59 kg,,Normal,CV. Hijau
+2025-02-17 00:00:00,Rawit Setan,37231,56,,Normal,Pak Asep
+2025-02-18 00:00:00,Cabai Rawit,31682,59 kg,0.0,Normal,Pak Asep
+2025-02-19 00:00:00,Cabe Rawit Merah,40862,55,0.0,Normal,CV. Hijau
+2025-02-20 00:00:00,Cabai Rawit,46454,72,0.0,Normal,Tani Makmur
+2025-02-21 00:00:00,Rawit Setan,37861,47,0.0,Normal,CV. Hijau
+2025-02-22 00:00:00,Rawit Setan,40317,49,,Normal,Pak Asep
+2025-02-23 00:00:00,Cabai Rawit,38680,44,0.0,Normal,CV. Hijau
+2025-02-24 00:00:00,Cabe Rawit Merah,36633,68,0.0,Normal,Pak Asep
+2025-02-25 00:00:00,Cabe Rawit Merah,31446,42,0.0,Normal,CV. Hijau
+TGL_ERROR,Rawit Setan,Rp 37355,62,0.0,Normal,Tani Makmur
+TGL_ERROR,Cabe Rawit Merah,34502,48,0.0,Normal,Pak Asep
+2025-02-28 00:00:00,Cabe Rawit Merah,37214,40,0.0,Normal,Pak Asep
+2025-03-01 00:00:00,Rawit Setan,36632,44,0.0,Normal,Pak Asep
+2025-03-02 00:00:00,Rawit Setan,40156,38,0.0,Normal,CV. Hijau
+2025-03-03 00:00:00,Cabai Rawit,42733,41,0.0,Normal,Tani Makmur
+TGL_ERROR,Cabe Rawit Merah,Idr 34937,53,,Normal,CV. Hijau
+2025-03-05 00:00:00,Rawit Setan,36535,41 kg,0.0,Normal,Tani Makmur
+TGL_ERROR,Cabe Rawit Merah,39770,62 kg,,Normal,Tani Makmur
+2025-03-07 00:00:00,Rawit Setan,37777,46,0.0,Normal,Tani Makmur
+2025-03-08 00:00:00,Rawit Setan,33273,54,0.0,Normal,Pak Asep
+2025-03-09 00:00:00,Cabai Rawit,36686,49 kg,0.0,Normal,Pak Asep
+2025-03-10 00:00:00,Cabe Rawit Merah,31949,79,0.0,Normal,Pak Asep
+2025-03-11 00:00:00,Rawit Setan,34895,54,0.0,Normal,Tani Makmur
+2025-03-12 00:00:00,Cabe Rawit Merah,39909,63,0.0,Normal,CV. Hijau
+2025-03-13 00:00:00,Rawit Setan,31464,55,0.0,Normal,CV. Hijau
+TGL_ERROR,Rawit Setan,34983,55,0.0,Normal,Pak Asep
+2025-03-15 00:00:00,Cabe Rawit Merah,35504,36,,Normal,Tani Makmur
+2025-03-16 00:00:00,Cabe Rawit Merah,36887,47,0.0,Normal,Tani Makmur
+2025-03-17 00:00:00,Rawit Setan,36631,68,,Normal,Pak Asep
+2025-03-18 00:00:00,Cabai Rawit,37195,55,0.0,Normal,CV. Hijau
+2025-03-19 00:00:00,Cabe Rawit Merah,29472,61,0.0,Normal,CV. Hijau
+2025-03-20 00:00:00,Cabai Rawit,34132,42,0.0,Normal,CV. Hijau
+2025-03-21 00:00:00,Cabai Rawit,Idr 40992,45,0.0,Normal,CV. Hijau
+2025-03-22 00:00:00,Cabai Rawit,39624,65,0.0,Normal,Pak Asep
+2025-03-23 00:00:00,Rawit Setan,39591,42,0.0,Normal,CV. Hijau
+2025-03-24 00:00:00,Cabe Rawit Merah,78150,108 kg,,Lebaran,Tani Makmur
+2025-03-25 00:00:00,Rawit Setan,104489,124,1.0,Lebaran,CV. Hijau
+2025-03-26 00:00:00,Cabai Rawit,106597,94,,Lebaran,Tani Makmur
+2025-03-27 00:00:00,Cabe Rawit Merah,87153,87,1.0,Lebaran,CV. Hijau
+2025-03-28 00:00:00,Cabai Rawit,106054,89,,Lebaran,Pak Asep
+2025-03-29 00:00:00,Cabai Rawit,Idr 93966,97,1.0,Lebaran,Pak Asep
+2025-03-30 00:00:00,Cabai Rawit,82665,96,1.0,Lebaran,Pak Asep
+2025-03-31 00:00:00,Cabe Rawit Merah,97858,64,1.0,Lebaran,Tani Makmur
+2025-04-01 00:00:00,Rawit Setan,118566,123,1.0,Lebaran,CV. Hijau
+2025-04-02 00:00:00,Rawit Setan,71698,73,1.0,Lebaran,CV. Hijau
+2025-04-03 00:00:00,Cabe Rawit Merah,112604,51,1.0,Lebaran,CV. Hijau
+2025-04-04 00:00:00,Cabe Rawit Merah,Idr 33493,75,0.0,Normal,Tani Makmur
+2025-04-05 00:00:00,Rawit Setan,38769,59,0.0,Normal,CV. Hijau
+2025-04-06 00:00:00,Cabai Rawit,37824,47,0.0,Normal,Tani Makmur
+2025-04-07 00:00:00,Cabai Rawit,38598,53,,Normal,Tani Makmur
+2025-04-08 00:00:00,Rawit Setan,34531,54,0.0,Normal,Pak Asep
+2025-04-09 00:00:00,Cabai Rawit,34778,39,0.0,Normal,Pak Asep
+2025-04-10 00:00:00,Cabai Rawit,35740,58,0.0,Normal,Pak Asep
+2025-04-11 00:00:00,Rawit Setan,46704,61,0.0,Normal,CV. Hijau
+2025-04-12 00:00:00,Cabai Rawit,46830,41,0.0,Normal,Pak Asep
+2025-04-13 00:00:00,Cabe Rawit Merah,30267,64,0.0,Normal,Tani Makmur
+2025-04-14 00:00:00,Rawit Setan,Rp 38498,73,0.0,Normal,CV. Hijau
+2025-04-15 00:00:00,Cabe Rawit Merah,24463,43,0.0,Normal,CV. Hijau
+2025-04-16 00:00:00,Cabe Rawit Merah,39775,42,0.0,Normal,Pak Asep
+2025-04-17 00:00:00,Rawit Setan,33670,49,0.0,Normal,Pak Asep
+2025-04-18 00:00:00,Cabe Rawit Merah,40229,56,0.0,Normal,Pak Asep
+2025-04-19 00:00:00,Cabai Rawit,38496,52,0.0,Normal,Pak Asep
+2025-04-20 00:00:00,Cabai Rawit,33680,44,0.0,Normal,Tani Makmur
+2025-04-21 00:00:00,Rawit Setan,41677,57,0.0,Normal,CV. Hijau
+2025-04-22 00:00:00,Cabai Rawit,37236,50,,Normal,Tani Makmur
+2025-04-23 00:00:00,Cabai Rawit,41919,55,0.0,Normal,Pak Asep
+2025-04-24 00:00:00,Cabai Rawit,36791,38,0.0,Normal,CV. Hijau
+2025-04-25 00:00:00,Rawit Setan,35132,57,0.0,Normal,CV. Hijau
+2025-04-26 00:00:00,Rawit Setan,39901,57,0.0,Normal,CV. Hijau
+2025-04-27 00:00:00,Cabai Rawit,44522,39,,Normal,Pak Asep
+2025-04-28 00:00:00,Rawit Setan,35176,54,0.0,Normal,Pak Asep
+2025-04-29 00:00:00,Rawit Setan,30966,32,0.0,Normal,Pak Asep
+2025-04-30 00:00:00,Cabe Rawit Merah,34986,33,0.0,Normal,Pak Asep
+2025-05-01 00:00:00,Cabai Rawit,36736,46 kg,0.0,Normal,CV. Hijau
+2025-05-02 00:00:00,Rawit Setan,Rp 39712,46,0.0,Normal,Tani Makmur
+2025-05-03 00:00:00,Rawit Setan,39154,34,,Normal,Pak Asep
+2025-05-04 00:00:00,Cabe Rawit Merah,34733,57,0.0,Normal,CV. Hijau
+2025-05-05 00:00:00,Cabai Rawit,35881,80,0.0,Normal,Pak Asep
+2025-05-06 00:00:00,Cabai Rawit,33047,53,,Normal,CV. Hijau
+TGL_ERROR,Cabe Rawit Merah,45672,52,,Normal,CV. Hijau
+2025-05-08 00:00:00,Cabe Rawit Merah,37843,54,,Normal,CV. Hijau
+2025-05-09 00:00:00,Rawit Setan,34339,47 kg,0.0,Normal,Pak Asep
+2025-05-10 00:00:00,Cabai Rawit,31007,75 kg,0.0,Normal,CV. Hijau
+2025-05-11 00:00:00,Cabai Rawit,36861,43,0.0,Normal,CV. Hijau
+2025-05-12 00:00:00,Cabai Rawit,47516,45 kg,0.0,Normal,Tani Makmur
+2025-05-13 00:00:00,Rawit Setan,39818,50,0.0,Normal,Tani Makmur
+2025-05-14 00:00:00,Rawit Setan,41255,42,0.0,Normal,Pak Asep
+2025-05-15 00:00:00,Cabe Rawit Merah,38212,36,0.0,Normal,Pak Asep
+2025-05-16 00:00:00,Rawit Setan,41012,37,0.0,Normal,CV. Hijau
+2025-05-17 00:00:00,Rawit Setan,40085,56,,Normal,Tani Makmur
+2025-05-18 00:00:00,Rawit Setan,Idr 33893,36,0.0,Normal,Tani Makmur
+2025-05-19 00:00:00,Cabai Rawit,34977,49,0.0,Normal,Pak Asep
+2025-05-20 00:00:00,Cabe Rawit Merah,42575,48,0.0,Normal,Tani Makmur
+2025-05-21 00:00:00,Cabai Rawit,30644,46,0.0,Normal,Tani Makmur
+2025-05-22 00:00:00,Cabai Rawit,36541,49,,Normal,Tani Makmur
+2025-05-23 00:00:00,Rawit Setan,38713,45,0.0,Normal,Tani Makmur
+2025-05-24 00:00:00,Cabe Rawit Merah,36262,37,0.0,Normal,Tani Makmur
+2025-05-25 00:00:00,Cabai Rawit,42047,40,0.0,Normal,CV. Hijau
+2025-05-26 00:00:00,Cabai Rawit,32925,48,0.0,Normal,CV. Hijau
+2025-05-27 00:00:00,Rawit Setan,35334,56,,Normal,Pak Asep
+2025-05-28 00:00:00,Rawit Setan,35848,55,0.0,Normal,Pak Asep
+2025-05-29 00:00:00,Cabe Rawit Merah,47219,44,0.0,Normal,Pak Asep
+2025-05-30 00:00:00,Cabe Rawit Merah,88204,74,1.0,Idul Adha,Tani Makmur
+2025-05-31 00:00:00,Cabai Rawit,85617,121,1.0,Idul Adha,CV. Hijau
+2025-06-01 00:00:00,Cabai Rawit,73904,86,1.0,Idul Adha,CV. Hijau
+2025-06-02 00:00:00,Cabai Rawit,111003,112,1.0,Idul Adha,Tani Makmur
+2025-06-03 00:00:00,Rawit Setan,76030,87,,Idul Adha,Pak Asep
+2025-06-04 00:00:00,Cabe Rawit Merah,100562,106,1.0,Idul Adha,CV. Hijau
+2025-06-05 00:00:00,Cabai Rawit,93770,110,1.0,Idul Adha,Tani Makmur
+2025-06-06 00:00:00,Cabe Rawit Merah,94061,106,1.0,Idul Adha,Tani Makmur
+2025-06-07 00:00:00,Rawit Setan,95707,85,1.0,Idul Adha,Tani Makmur
+2025-06-08 00:00:00,Rawit Setan,80373,50,1.0,Idul Adha,Pak Asep
+2025-06-09 00:00:00,Rawit Setan,100568,129,1.0,Idul Adha,Tani Makmur
+2025-06-10 00:00:00,Cabai Rawit,39490,43 kg,0.0,Normal,CV. Hijau
+2025-06-11 00:00:00,Cabai Rawit,33887,60,0.0,Normal,CV. Hijau
+2025-06-12 00:00:00,Cabe Rawit Merah,33971,46,0.0,Normal,Pak Asep
+2025-06-13 00:00:00,Rawit Setan,30159,44,0.0,Normal,Pak Asep
+2025-06-14 00:00:00,Cabe Rawit Merah,41552,45,,Normal,Tani Makmur
+2025-06-15 00:00:00,Rawit Setan,Idr 38545,45,0.0,Normal,CV. Hijau
+2025-06-16 00:00:00,Cabe Rawit Merah,33732,38,,Normal,CV. Hijau
+2025-06-17 00:00:00,Cabe Rawit Merah,31945,41,0.0,Normal,Tani Makmur
+2025-06-18 00:00:00,Cabe Rawit Merah,34387,56,0.0,Normal,Pak Asep
+2025-06-19 00:00:00,Cabe Rawit Merah,35253,64,0.0,Normal,Pak Asep
+2025-06-20 00:00:00,Cabe Rawit Merah,36974,68,0.0,Normal,Pak Asep
+2025-06-21 00:00:00,Rawit Setan,41756,36,0.0,Normal,Tani Makmur
+2025-06-22 00:00:00,Cabai Rawit,41802,34,,Normal,Pak Asep
+2025-06-23 00:00:00,Cabe Rawit Merah,42039,67,,Normal,CV. Hijau
+2025-06-24 00:00:00,Rawit Setan,42383,51,0.0,Normal,CV. Hijau
+2025-06-25 00:00:00,Rawit Setan,33250,60 kg,0.0,Normal,Pak Asep
+2025-06-26 00:00:00,Rawit Setan,39626,45,0.0,Normal,Pak Asep
+2025-06-27 00:00:00,Cabai Rawit,36270,54,0.0,Normal,CV. Hijau
+2025-06-28 00:00:00,Rawit Setan,37597,48,,Normal,Pak Asep
+2025-06-29 00:00:00,Rawit Setan,38225,57,0.0,Normal,CV. Hijau
+2025-06-30 00:00:00,Cabai Rawit,40056,54,,Normal,Pak Asep
+2025-07-01 00:00:00,Rawit Setan,38166,45,0.0,Normal,Tani Makmur
+2025-07-02 00:00:00,Rawit Setan,37632,61,0.0,Normal,Tani Makmur
+2025-07-03 00:00:00,Cabe Rawit Merah,42972,63,0.0,Normal,Tani Makmur
+2025-07-04 00:00:00,Rawit Setan,39200,60,0.0,Normal,Tani Makmur
+2025-07-05 00:00:00,Cabe Rawit Merah,Idr 44583,44 kg,0.0,Normal,CV. Hijau
+2025-07-06 00:00:00,Cabe Rawit Merah,39479,48,0.0,Normal,Tani Makmur
+2025-07-07 00:00:00,Cabai Rawit,38750,37,0.0,Normal,Tani Makmur
+2025-07-08 00:00:00,Rawit Setan,37425,42,0.0,Normal,CV. Hijau
+2025-07-09 00:00:00,Cabe Rawit Merah,34145,52,0.0,Normal,CV. Hijau
+2025-07-10 00:00:00,Cabe Rawit Merah,34547,26,0.0,Normal,Pak Asep
+2025-07-11 00:00:00,Cabai Rawit,39299,55,0.0,Normal,CV. Hijau
+2025-07-12 00:00:00,Cabe Rawit Merah,33072,45,0.0,Normal,CV. Hijau
+2025-07-13 00:00:00,Rawit Setan,35174,25,0.0,Normal,CV. Hijau
+2025-07-14 00:00:00,Cabe Rawit Merah,39827,37,0.0,Normal,Tani Makmur
+2025-07-15 00:00:00,Cabai Rawit,33070,31,,Normal,Pak Asep
+2025-07-16 00:00:00,Cabe Rawit Merah,35643,48,,Normal,Tani Makmur
+2025-07-17 00:00:00,Cabe Rawit Merah,Rp 41051,48,0.0,Normal,Pak Asep
+2025-07-18 00:00:00,Cabai Rawit,42033,44,0.0,Normal,CV. Hijau
+2025-07-19 00:00:00,Cabai Rawit,33185,46,0.0,Normal,CV. Hijau
+2025-07-20 00:00:00,Cabai Rawit,40609,35,0.0,Normal,Pak Asep
+2025-07-21 00:00:00,Cabe Rawit Merah,37698,30,0.0,Normal,CV. Hijau
+2025-07-22 00:00:00,Rawit Setan,43201,45,0.0,Normal,Tani Makmur
+2025-07-23 00:00:00,Cabe Rawit Merah,29343,43,0.0,Normal,CV. Hijau
+2025-07-24 00:00:00,Cabai Rawit,38083,39,0.0,Normal,Tani Makmur
+2025-07-25 00:00:00,Cabe Rawit Merah,36108,69,,Normal,CV. Hijau
+2025-07-26 00:00:00,Cabai Rawit,42809,47,0.0,Normal,Pak Asep
+2025-07-27 00:00:00,Cabai Rawit,35635,45,0.0,Normal,CV. Hijau
+2025-07-28 00:00:00,Rawit Setan,36827,60,0.0,Normal,Pak Asep
+2025-07-29 00:00:00,Cabe Rawit Merah,27007,51,0.0,Normal,Tani Makmur
+2025-07-30 00:00:00,Cabe Rawit Merah,33687,70,0.0,Normal,CV. Hijau
+2025-07-31 00:00:00,Rawit Setan,34207,36,,Normal,Pak Asep
+2025-08-01 00:00:00,Cabe Rawit Merah,32689,45,0.0,Normal,Tani Makmur
+2025-08-02 00:00:00,Rawit Setan,32353,54,0.0,Normal,Pak Asep
+2025-08-03 00:00:00,Cabai Rawit,31178,36,0.0,Normal,Pak Asep
+2025-08-04 00:00:00,Rawit Setan,36645,62,0.0,Normal,Pak Asep
+2025-08-05 00:00:00,Cabe Rawit Merah,37103,51,0.0,Normal,Tani Makmur
+2025-08-06 00:00:00,Cabai Rawit,41675,30,0.0,Normal,Pak Asep
+2025-08-07 00:00:00,Cabe Rawit Merah,33216,47,0.0,Normal,Tani Makmur
+2025-08-08 00:00:00,Cabai Rawit,32212,40,0.0,Normal,Pak Asep
+2025-08-09 00:00:00,Cabai Rawit,37811,68,0.0,Normal,CV. Hijau
+2025-08-10 00:00:00,Cabe Rawit Merah,32641,48,0.0,Normal,Pak Asep
+2025-08-11 00:00:00,Cabai Rawit,30513,59,0.0,Normal,Pak Asep
+2025-08-12 00:00:00,Rawit Setan,38954,48,0.0,Normal,CV. Hijau
+2025-08-13 00:00:00,Rawit Setan,39197,56,0.0,Normal,Tani Makmur
+2025-08-14 00:00:00,Cabe Rawit Merah,36863,45,0.0,Normal,CV. Hijau
+2025-08-15 00:00:00,Rawit Setan,33866,53,0.0,Normal,Tani Makmur
+2025-08-16 00:00:00,Cabe Rawit Merah,Rp 36404,33,0.0,Normal,CV. Hijau
+2025-08-17 00:00:00,Cabai Rawit,33603,53,0.0,Normal,Pak Asep
+2025-08-18 00:00:00,Rawit Setan,39142,56,0.0,Normal,Pak Asep
+2025-08-19 00:00:00,Rawit Setan,33446,37,0.0,Normal,Tani Makmur
+2025-08-20 00:00:00,Cabe Rawit Merah,Idr 39228,41,0.0,Normal,Tani Makmur
+TGL_ERROR,Rawit Setan,41647,47,0.0,Normal,Pak Asep
+2025-08-22 00:00:00,Cabai Rawit,34044,46,0.0,Normal,Tani Makmur
+2025-08-23 00:00:00,Cabai Rawit,45913,56,,Normal,CV. Hijau
+2025-08-24 00:00:00,Cabai Rawit,40301,60,,Normal,CV. Hijau
+2025-08-25 00:00:00,Cabe Rawit Merah,38042,46,0.0,Normal,Tani Makmur
+2025-08-26 00:00:00,Rawit Setan,38670,48,,Normal,Pak Asep
+2025-08-27 00:00:00,Cabai Rawit,34318,53,0.0,Normal,Tani Makmur
+2025-08-28 00:00:00,Cabe Rawit Merah,37935,45,0.0,Normal,Tani Makmur
+2025-08-29 00:00:00,Cabai Rawit,Idr 40247,44,0.0,Normal,Pak Asep
+2025-08-30 00:00:00,Rawit Setan,42256,46 kg,0.0,Normal,Tani Makmur
+2025-08-31 00:00:00,Cabai Rawit,36653,66,0.0,Normal,Tani Makmur
+2025-09-01 00:00:00,Rawit Setan,35434,43,0.0,Normal,CV. Hijau
+2025-09-02 00:00:00,Cabai Rawit,35091,43,0.0,Normal,Pak Asep
+2025-09-03 00:00:00,Cabai Rawit,31952,58,0.0,Normal,CV. Hijau
+2025-09-04 00:00:00,Cabai Rawit,36865,59,,Normal,Tani Makmur
+2025-09-05 00:00:00,Cabai Rawit,31942,51,0.0,Normal,CV. Hijau
+2025-09-06 00:00:00,Cabe Rawit Merah,30269,32,0.0,Normal,CV. Hijau
+2025-09-07 00:00:00,Rawit Setan,30945,48,,Normal,Pak Asep
+2025-09-08 00:00:00,Cabe Rawit Merah,38033,60,0.0,Normal,Tani Makmur
+2025-09-09 00:00:00,Cabe Rawit Merah,38211,46,0.0,Normal,Tani Makmur
+2025-09-10 00:00:00,Cabe Rawit Merah,34586,48,,Normal,Pak Asep
+2025-09-11 00:00:00,Cabai Rawit,38868,49,0.0,Normal,CV. Hijau
+2025-09-12 00:00:00,Cabe Rawit Merah,33508,55,0.0,Normal,Tani Makmur
+2025-09-13 00:00:00,Rawit Setan,33905,47,0.0,Normal,Pak Asep
+2025-09-14 00:00:00,Rawit Setan,36095,47,,Normal,Pak Asep
+2025-09-15 00:00:00,Rawit Setan,37607,27,0.0,Normal,Tani Makmur
+2025-09-16 00:00:00,Cabe Rawit Merah,43591,50,0.0,Normal,CV. Hijau
+2025-09-17 00:00:00,Cabe Rawit Merah,Idr 37409,69,0.0,Normal,Pak Asep
+2025-09-18 00:00:00,Cabe Rawit Merah,33560,50,,Normal,Tani Makmur
+2025-09-19 00:00:00,Cabe Rawit Merah,36374,49,0.0,Normal,CV. Hijau
+TGL_ERROR,Rawit Setan,36503,53 kg,,Normal,Pak Asep
+2025-09-21 00:00:00,Rawit Setan,39640,53,0.0,Normal,Tani Makmur
+2025-09-22 00:00:00,Cabe Rawit Merah,41404,55,0.0,Normal,Pak Asep
+2025-09-23 00:00:00,Cabe Rawit Merah,34603,64,0.0,Normal,Tani Makmur
+2025-09-24 00:00:00,Cabe Rawit Merah,39457,58,0.0,Normal,Pak Asep
+TGL_ERROR,Cabai Rawit,41042,43,0.0,Normal,CV. Hijau
+2025-09-26 00:00:00,Rawit Setan,31870,50,0.0,Normal,Tani Makmur
+2025-09-27 00:00:00,Rawit Setan,30806,48,0.0,Normal,Pak Asep
+2025-09-28 00:00:00,Cabe Rawit Merah,Idr 36426,61,,Normal,Pak Asep
+2025-09-29 00:00:00,Cabai Rawit,35703,35,,Normal,CV. Hijau
+2025-09-30 00:00:00,Rawit Setan,33652,57,0.0,Normal,Tani Makmur
+2025-10-01 00:00:00,Rawit Setan,38237,51,0.0,Normal,CV. Hijau
+2025-10-02 00:00:00,Cabai Rawit,36743,63,0.0,Normal,Tani Makmur
+2025-10-03 00:00:00,Cabai Rawit,33581,34,0.0,Normal,Tani Makmur
+2025-10-04 00:00:00,Cabe Rawit Merah,33290,53,0.0,Normal,CV. Hijau
+2025-10-05 00:00:00,Rawit Setan,43613,40,0.0,Normal,Pak Asep
+2025-10-06 00:00:00,Cabai Rawit,35751,40,0.0,Normal,Pak Asep
+2025-10-07 00:00:00,Rawit Setan,37753,46,0.0,Normal,CV. Hijau
+2025-10-08 00:00:00,Rawit Setan,36929,29,,Normal,CV. Hijau
+2025-10-09 00:00:00,Cabe Rawit Merah,36877,62,0.0,Normal,CV. Hijau
+2025-10-10 00:00:00,Cabe Rawit Merah,34417,79,,Normal,CV. Hijau
+2025-10-11 00:00:00,Rawit Setan,35251,54,0.0,Normal,Pak Asep
+2025-10-12 00:00:00,Cabe Rawit Merah,41501,52,0.0,Normal,CV. Hijau
+2025-10-13 00:00:00,Cabai Rawit,29491,35 kg,0.0,Normal,CV. Hijau
+2025-10-14 00:00:00,Cabai Rawit,37755,37,0.0,Normal,CV. Hijau
+2025-10-15 00:00:00,Cabai Rawit,38194,55,,Normal,Pak Asep
+2025-10-16 00:00:00,Rawit Setan,42429,43,0.0,Normal,CV. Hijau
+2025-10-17 00:00:00,Rawit Setan,38540,47,0.0,Normal,Pak Asep
+2025-10-18 00:00:00,Rawit Setan,32570,52 kg,,Normal,CV. Hijau
+2025-10-19 00:00:00,Cabai Rawit,41978,53,0.0,Normal,Tani Makmur
+2025-10-20 00:00:00,Cabe Rawit Merah,35497,36,0.0,Normal,Tani Makmur
+2025-10-21 00:00:00,Cabe Rawit Merah,40568,55 kg,,Normal,Tani Makmur
+2025-10-22 00:00:00,Cabai Rawit,42723,51,0.0,Normal,Pak Asep
+TGL_ERROR,Cabe Rawit Merah,42603,47,0.0,Normal,Tani Makmur
+2025-10-24 00:00:00,Cabai Rawit,41894,41,0.0,Normal,CV. Hijau
+2025-10-25 00:00:00,Cabe Rawit Merah,32048,50,0.0,Normal,CV. Hijau
+2025-10-26 00:00:00,Rawit Setan,37598,53,0.0,Normal,CV. Hijau
+2025-10-27 00:00:00,Rawit Setan,41834,57,0.0,Normal,CV. Hijau
+2025-10-28 00:00:00,Cabai Rawit,35308,45,0.0,Normal,CV. Hijau
+2025-10-29 00:00:00,Cabe Rawit Merah,34243,54,0.0,Normal,Tani Makmur
+2025-10-30 00:00:00,Cabe Rawit Merah,28225,50,0.0,Normal,Pak Asep
+2025-10-31 00:00:00,Rawit Setan,30909,74,0.0,Normal,Pak Asep
+2025-11-01 00:00:00,Cabe Rawit Merah,Rp 40857,53,0.0,Normal,CV. Hijau
+2025-11-02 00:00:00,Rawit Setan,42055,73,,Normal,Pak Asep
+2025-11-03 00:00:00,Rawit Setan,32462,44,,Normal,Pak Asep
+2025-11-04 00:00:00,Rawit Setan,39724,53,0.0,Normal,Tani Makmur
+2025-11-05 00:00:00,Rawit Setan,31245,50,0.0,Normal,Tani Makmur
+2025-11-06 00:00:00,Cabai Rawit,36213,42,,Normal,Tani Makmur
+2025-11-07 00:00:00,Cabai Rawit,30138,55 kg,0.0,Normal,Pak Asep
+2025-11-08 00:00:00,Rawit Setan,33365,59,0.0,Normal,Tani Makmur
+2025-11-09 00:00:00,Cabai Rawit,38541,59 kg,0.0,Normal,Tani Makmur
+2025-11-10 00:00:00,Cabai Rawit,40107,30,0.0,Normal,Tani Makmur
+2025-11-11 00:00:00,Rawit Setan,29598,35,0.0,Normal,Pak Asep
+2025-11-12 00:00:00,Cabai Rawit,35686,50,0.0,Normal,Pak Asep
+2025-11-13 00:00:00,Cabai Rawit,40609,45,0.0,Normal,Pak Asep
+2025-11-14 00:00:00,Rawit Setan,34962,59,0.0,Normal,Tani Makmur
+2025-11-15 00:00:00,Cabe Rawit Merah,33928,66,0.0,Normal,Pak Asep
+2025-11-16 00:00:00,Cabe Rawit Merah,45369,40,0.0,Normal,Pak Asep
+2025-11-17 00:00:00,Cabe Rawit Merah,38357,52,0.0,Normal,Tani Makmur
+2025-11-18 00:00:00,Cabai Rawit,38683,48,0.0,Normal,Pak Asep
+2025-11-19 00:00:00,Cabai Rawit,36609,48,0.0,Normal,Pak Asep
+2025-11-20 00:00:00,Cabe Rawit Merah,42160,50,0.0,Normal,Tani Makmur
+2025-11-21 00:00:00,Cabe Rawit Merah,40897,54,,Normal,Tani Makmur
+2025-11-22 00:00:00,Cabe Rawit Merah,33276,52,0.0,Normal,CV. Hijau
+2025-11-23 00:00:00,Cabe Rawit Merah,33716,58,,Normal,Pak Asep
+2025-11-24 00:00:00,Rawit Setan,36326,57,0.0,Normal,CV. Hijau
+2025-11-25 00:00:00,Rawit Setan,Idr 35378,51,0.0,Normal,Tani Makmur
+2025-11-26 00:00:00,Cabe Rawit Merah,33864,47,0.0,Normal,CV. Hijau
+2025-11-27 00:00:00,Cabai Rawit,36294,47 kg,0.0,Normal,CV. Hijau
+2025-11-28 00:00:00,Cabai Rawit,35697,26,,Normal,CV. Hijau
+2025-11-29 00:00:00,Cabai Rawit,43741,56,0.0,Normal,Tani Makmur
+2025-11-30 00:00:00,Rawit Setan,Rp 34313,41,,Normal,Pak Asep
+2025-12-01 00:00:00,Rawit Setan,40578,50,0.0,Normal,Pak Asep
+2025-12-02 00:00:00,Cabe Rawit Merah,40180,55,0.0,Normal,Tani Makmur
+2025-12-03 00:00:00,Rawit Setan,34597,61,0.0,Normal,Pak Asep
+2025-12-04 00:00:00,Cabe Rawit Merah,33672,43,0.0,Normal,Pak Asep
+2025-12-05 00:00:00,Cabai Rawit,Rp 27463,44,0.0,Normal,Pak Asep
+2025-12-06 00:00:00,Rawit Setan,39130,51 kg,0.0,Normal,CV. Hijau
+2025-12-07 00:00:00,Cabai Rawit,37064,50,0.0,Normal,CV. Hijau
+2025-12-08 00:00:00,Rawit Setan,32125,47,0.0,Normal,Tani Makmur
+2025-12-09 00:00:00,Cabai Rawit,39731,48 kg,0.0,Normal,CV. Hijau
+2025-12-10 00:00:00,Rawit Setan,37613,50,0.0,Normal,Tani Makmur
+TGL_ERROR,Cabai Rawit,39743,51,,Normal,Pak Asep
+2025-12-12 00:00:00,Cabe Rawit Merah,37543,50,,Normal,Tani Makmur
+2025-12-13 00:00:00,Rawit Setan,44613,39,0.0,Normal,CV. Hijau
+2025-12-14 00:00:00,Cabai Rawit,43102,41,0.0,Normal,Pak Asep
+2025-12-15 00:00:00,Rawit Setan,38391,50,0.0,Normal,Pak Asep
+2025-12-16 00:00:00,Cabe Rawit Merah,33670,69,,Normal,Tani Makmur
+2025-12-17 00:00:00,Cabai Rawit,36950,43,,Normal,Pak Asep
+2025-12-18 00:00:00,Cabe Rawit Merah,79031,110,1.0,Nataru,Pak Asep
+2025-12-19 00:00:00,Rawit Setan,99391,73,1.0,Nataru,Pak Asep
+2025-12-20 00:00:00,Cabe Rawit Merah,106125,101,1.0,Nataru,CV. Hijau
+2025-12-21 00:00:00,Rawit Setan,Idr 94626,99,1.0,Nataru,CV. Hijau
+2025-12-22 00:00:00,Cabai Rawit,110266,84,,Nataru,Tani Makmur
+2025-12-23 00:00:00,Rawit Setan,104668,102,1.0,Nataru,Tani Makmur
+2025-12-24 00:00:00,Cabe Rawit Merah,95346,78,1.0,Nataru,Pak Asep
+2025-12-25 00:00:00,Rawit Setan,98931,98,1.0,Nataru,CV. Hijau
+2025-12-26 00:00:00,Rawit Setan,99635,65,1.0,Nataru,Pak Asep
+2025-12-27 00:00:00,Rawit Setan,96605,139,1.0,Nataru,CV. Hijau
+2025-12-28 00:00:00,Cabe Rawit Merah,110508,117,1.0,Nataru,Tani Makmur
+2025-12-29 00:00:00,Cabai Rawit,46828,53,0.0,Normal,Pak Asep
+2025-12-30 00:00:00,Cabai Rawit,Rp 26655,34,,Normal,Pak Asep
