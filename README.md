@@ -65,7 +65,6 @@ Berdasarkan simulasi pada distributor skala menengah (omzet harian ~100 Kg):
 
 ## 📸 Screenshots
 
-*(Disini kamu bisa masukkan screenshot aplikasi Streamlit kamu nanti)*
 ![Dashboard Preview](app-ss.png)
 
 ---
@@ -101,4 +100,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/marsello-ormanda/) or 
 
 
 ---
+
 
