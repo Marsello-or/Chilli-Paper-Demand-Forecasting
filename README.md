@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 Coba aplikasi dashboard interaktif di sini:  
-### [👉 Klik Disini untuk Membuka Aplikasi](https://chilli-paper-demand-forecasting.streamlit.app/)
+### [👉 Klik Disini untuk Membuka Aplikasi](https://chilli-pepper-demand-forecasting.streamlit.app/)
 
 ---
 
@@ -101,3 +101,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/marsello-ormanda/) or 
 
 
 ---
+
